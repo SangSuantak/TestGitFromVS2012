@@ -110,7 +110,6 @@
   <ItemGroup>
     <Compile Include="Controllers\DataController.cs" />
     <Compile Include="Controllers\NewController.cs" />
-    <Compile Include="Controllers\NewSecondController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
