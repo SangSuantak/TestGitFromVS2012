@@ -9,5 +9,9 @@ namespace GitProject.Controllers
 {
     public class DataController : ApiController
     {
+        public string TestResponse()
+        {
+            return "Test Response";
+        }
     }
 }
